@@ -1,7 +1,16 @@
 # Save-the-Castle
 A shooting game built using PyGame
-## Dependencies
+##  Dependencies
 Python 2.7 with PyGame installed
+###  How to install pygame:
+1. Open Terminal
+
+2. To check your version of Python:\
+    `python --version `
+    
+For python2: `sudo apt-get install python-pygame` 
+
+For python3: `sudo apt install python3-pygame` 
 ## How to Play
 1. Open Terminal
 2. git clone https://github.com/susiejojo/Save-the-Castle.git
